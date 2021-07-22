@@ -18,7 +18,7 @@ const Covid = () => {
     }
 
     useEffect(() => {
-        // getCovidData();
+         getCovidData();
     }, []);
 
    return (
